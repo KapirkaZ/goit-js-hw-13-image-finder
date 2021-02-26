@@ -1,3 +1,3 @@
-import './css/styles.css';
-import './js/imageSearch.js';
-import './js/lightboxModal.js';
+import './styles.css';
+import 'material-design-icons/iconfont/material-icons.css'
+import './js/eventListeners.js'
