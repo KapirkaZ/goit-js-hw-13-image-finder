@@ -38,11 +38,10 @@ body {
   cursor: pointer;
 }
 .gallery {
-  list-style-type: none;
   display: flex;
   flex-wrap: wrap;
-  box-sizing: border-box;
-  margin: 10px;
+  justify-content: space-between;
+  padding: 20px;
 }
 .gallery .item:not(:last-child) {
   margin-right: 10px;
